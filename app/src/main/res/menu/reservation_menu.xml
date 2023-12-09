@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/chambre_id"
+        android:title="Chambre"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sauna_id"
+        android:title="Sauna impérial"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/massage_id"
+        android:title="Massage"
+        app:showAsAction="never" />
+    <item android:id="@+id/soins_de_beaute"
+        android:title="Soin de beauté"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/buffet_id"
+        android:title="Buffet"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/facture_id"
+        android:title="Facture"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/quitter_id"
+        android:title="Quitter"
+        app:showAsAction="never" />
+
+</menu>
